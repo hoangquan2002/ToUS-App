@@ -3,7 +3,7 @@
 - The time table project use wpf and entity framework with the MVVM model
 
 # How to setup 
-- In Setup file, open Release file, click in setup.exe. If net framework is not installed yet, please install by click net FrameWork 4.8.1.
+- In Setup file, open Release file, click in setup.exe. If net framework is not installed yet, please install by click Net FrameWork 4.8.1.
 # For development
 
 - After clone the project, open terminal in your project, type git checkout develop, then create a new branch with name convention below
